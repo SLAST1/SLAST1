@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Daniel</h2>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently studying at MAI <!--[laboratory works by MAI](https://github.com/users/SLAST1/) -->
+- I’m currently studying at MAI (Moscow Aviation Institute)
 
-- 🌱 Now I’m learning **C/C++, C#, Python, Java, JavaScript, Prolog, Matlab, Jupiter, LaTex, HTLM, CSS**
+- Now I’m learning **C/C++, C#, Python, Java, JavaScript, Prolog, Matlab, Jupiter, LaTex, HTLM, CSS**
 
 
 <p align="left"><img 
