@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at MAI <!--[laboratory works by MAI](https://github.com/users/SLAST1/) -->
 
-- 🌱 Now I’m learning **C/C++, C#, Python, Java, Prolog, Matlab, Jupiter, LaTex, HTLM**
+- 🌱 Now I’m learning **C/C++, C#, Python, Java, JavaScript, Prolog, Matlab, Jupiter, LaTex, HTLM, CSS**
 
 
 <p align="left"><img 
