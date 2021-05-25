@@ -18,15 +18,14 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/matlab/matlab-original.
 src="https://github.com/SLAST1/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img
 src="https://github.com/SLAST1/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img
 </p>
-  
+ 
+<p align="center"><img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&layout=compact" alt="SLAST1"/>
+</p>
+
 ## Find me on:
 [Vk](https://vk.com/slast1_one)
 
 [Instagram](https://www.instagram.com/slast1_one)
 
 [Telegram](https://t.me/slast1_one)
-
-
-<p align="center"><img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&layout=compact" alt="SLAST1"/>
-</p>
