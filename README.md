@@ -3,8 +3,7 @@
 
 - I’m currently studying at MAI (Moscow Aviation Institute)
 
-- Now I’m learning **C/C++, C#, Python, Java, JavaScript, Prolog, Matlab, Jupiter, LaTex, HTLM, CSS**
-
+- Now I’m learning **C/C++, C#, Python, Java, JavaScript, Prolog, Matlab, Jupiter, MicroLisp, LaTex, HTLM, CSS**
 
 <p align="left"><img 
 src="https://github.com/SLAST1/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img
