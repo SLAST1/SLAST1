@@ -23,9 +23,4 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/css3/css3-original-word
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&langs_count=9" alt="SLAST1"/>
 </p>
 
-### Find me on:
-[Vk](https://vk.com/slast1_one)
 
-[Instagram](https://www.instagram.com/slast1_one)
-
-[Telegram](https://t.me/slast1_one)
