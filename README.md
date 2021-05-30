@@ -20,9 +20,9 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/css3/css3-original-word
 </p>
  
 <p align="center"><img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&langs_count=7)" alt="SLAST1"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&langs_count=7)" alt="SLAST1"/>
 <!
-    &hide=richtextformat
+    &hide=
     layout=compact
 -->
 </p>
