@@ -21,16 +21,18 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/css3/css3-original-word
  
 <p align="center"><img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8)" alt="SLAST1"/>
-<!
+<!--
 &hide=
 &layout=compact
 &langs_count=
 -->
 </p>
 
+<!--
 ### Find me on:
 [Vk](https://vk.com/slast1_one)
 
 [Instagram](https://www.instagram.com/slast1_one)
 
 [Telegram](https://t.me/slast1_one)
+-->
