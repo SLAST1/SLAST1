@@ -30,6 +30,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=
 
 
 ### Find me on:
+
 <p align="center">
 <a href="https://vk.com/slast1_one">
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="vk"/>
@@ -41,4 +42,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=
 
 <a href="https://t.me/slast1_one">
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
+</a>
 </p>
