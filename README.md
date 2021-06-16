@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Daniel</h2>
+<h2 align="center">Hi, I'm Daniel</h2>
 <h3 align="center">Software Engineer</h3>
 
 - I’m currently studying at MAI (Moscow Aviation Institute)
