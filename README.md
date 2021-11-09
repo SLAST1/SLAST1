@@ -18,7 +18,7 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/css3/css3-original-word
 </p>
  
 <p align="center"><img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8)" alt="SLAST1"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&langs_count=8)" alt="SLAST1"/>
 <!--
 &hide=
 &layout=compact
