@@ -40,3 +40,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
