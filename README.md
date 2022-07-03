@@ -1,5 +1,4 @@
-<h2 align="center">Hi, I'm Daniel</h2>
-<h3 align="center">Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&multiline=true&width=650&height=70&lines=Hi+there%2C+I'm+Daniel;I'm+computer+science+student+and+developer;%2F)](https://git.io/typing-svg)
 
 - I’m currently studying at MAI (Moscow Aviation Institute)
 
