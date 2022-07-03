@@ -14,7 +14,10 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/python/python-original.
 src="https://github.com/SLAST1/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/><img
 src="https://github.com/SLAST1/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/><img
 </p>
- 
+
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=SLAST1&theme=material-palenight&show_icons=true">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&theme=material-palenight&layout=compact&hide=Scheme">
+
 <p align="center"><img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8)" alt="SLAST1"/>
 <!--
