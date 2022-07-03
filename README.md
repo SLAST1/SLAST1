@@ -18,16 +18,6 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/matlab/matlab-original.
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=SLAST1&theme=material-palenight&show_icons=true">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&theme=material-palenight&layout=compact&hide=Scheme">
 
-<p align="center"><img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8)" alt="SLAST1"/>
-<!--
-&hide=
-&layout=compact
-&langs_count=
--->
-</p>
-
-
 ### Find me on:
 
 <p align="center">
