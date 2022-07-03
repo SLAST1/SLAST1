@@ -16,7 +16,7 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/matlab/matlab-original.
 </p>
 
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=SLAST1&theme=midnight-purple&show_icons=true">
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&theme=midnight-purplek&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8">
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAST1&theme=github_dark&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8">
 
 ### Find me on:
 
