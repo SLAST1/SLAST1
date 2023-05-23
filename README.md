@@ -25,10 +25,6 @@ src="https://github.com/SLAST1/devicon/blob/master/icons/matlab/matlab-original.
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="vk"/>
 </a>
 
-<a href="https://instagram.com/slast1_one">
-  <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/instagram.png" alt="vk"/>
-</a>
-
 <a href="https://t.me/slast1_one">
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
